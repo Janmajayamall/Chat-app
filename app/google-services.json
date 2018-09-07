@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205759728816",
+    "firebase_url": "https://my-first-chat-app-8b865.firebaseio.com",
+    "project_id": "my-first-chat-app-8b865",
+    "storage_bucket": "my-first-chat-app-8b865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205759728816:android:51b2137076a049e0",
+        "android_client_info": {
+          "package_name": "com.janmajayamallfirstchatapp.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205759728816-rdgghuv3ee5bvsq9h6fam9vtt1i5vu4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.janmajayamallfirstchatapp.flashchatnewfirebase",
+            "certificate_hash": "89c83c71fef490f285c7aa616b1c648742dc8f0c"
+          }
+        },
+        {
+          "client_id": "205759728816-iufvlua1ccqmh72m1ls4i8q9tn1tsv00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntOlVlc3CZnZBjbar_DCKR5D1wUaX7ck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205759728816-iufvlua1ccqmh72m1ls4i8q9tn1tsv00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
